@@ -1,0 +1,14 @@
+h3.greenHeader {
+	color: green;
+	font-family: "Segoe script";
+}
+
+h3.yellowHeader {
+	color: yellow;
+	font-family: "Segoe script";
+}
+
+h1 {
+	color: black;
+	font-family: "Segoe print";
+}
