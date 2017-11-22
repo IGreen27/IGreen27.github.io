@@ -1,14 +1,38 @@
-h3.greenHeader {
-	color: green;
-	font-family: "Segoe script";
-}
-
-h3.yellowHeader {
+h3 {
 	color: yellow;
 	font-family: "Segoe script";
+	font-weight:bold;
+	background-color: #00000050;
 }
 
 h1 {
-	color: black;
+	color: white;
 	font-family: "Segoe print";
+	font-weight:bold;
+	background-color: #00000050;
+}
+
+body {
+	background-image: url(images/2.jpg);
+	background-size: 100%;
+	color: white;
+	font-family: segoe script;
+}
+
+a {
+	color: white;
+	font-family: "Segoe script";
+	background-color: #00000050;
+}
+
+pre {
+	color: white;
+	font-family: "Segoe script";
+	background-color: #00000050;
+}
+
+c {
+	color: white;
+	font-family: "Segoe script";
+	background-color: #00000050;
 }
